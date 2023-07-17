@@ -1,6 +1,7 @@
 use std::collections::HashMap;
 use std::fs;
 use std::io::Write;
+use std::time::{Instant, Duration};
 use walkdir::WalkDir;
 
 pub struct FileCompare {
@@ -47,18 +48,6 @@ impl FileCompare {
     pub fn get_risk_files(&self) -> &HashMap<String, String> {
         &self.risk_files
     }
-
-    pub fn write_to_log(&self, path: &str) {
-        let mut file = fs::OpenOptions::new()
-            .write(true)
-            .append(true)
-            .create(true)  // This will create the file if it doesn't exist
-            .open(path)
-            .unwrap();
-        for (file_path, virus_name) in &self.risk_files {
-            writeln!(file, "{} - {}", file_path, virus_name).expect("Couldn't write to log file");
-        }
-    }
 }
 
 pub struct RecFileSearch {
@@ -78,19 +67,41 @@ impl RecFileSearch {
         }
     }
 
-    pub fn start(&mut self) {
+    pub fn start(&mut self) -> Duration {
+        let start_time = Instant::now();
         for entry in WalkDir::new(&self.directory) {
             let entry = entry.expect("Failed to read directory entry");
             if entry.file_type().is_dir() {
-                self.found_dirs.push(entry.path().to_string_lossy().into_owned());
+                let dir_path = entry.path().to_string_lossy().into_owned();
+                self.found_dirs.push(dir_path.clone());
+                let dir_start_time = Instant::now();
+                // Process directory contents recursively if needed
+                // ...
+                let dir_elapsed = dir_start_time.elapsed();
+                self.write_to_log(&format!("Directory: {} - Time: {:?}", dir_path, dir_elapsed));
             } else if entry.file_type().is_file() {
-                let path = entry.path().to_string_lossy().into_owned();
-                self.found_files.push(path.clone());
-                self.tester.compare(&path);
+                let file_path = entry.path().to_string_lossy().into_owned();
+                self.found_files.push(file_path.clone());
+                let file_start_time = Instant::now();
+                self.tester.compare(&file_path);
+                let file_elapsed = file_start_time.elapsed();
+                self.write_to_log(&format!("File: {} - Time: {:?}", file_path, file_elapsed));
             }
         }
-        let path = format!("{}/dv1667.log", self.directory);
-        self.tester.write_to_log(&path);
+        let elapsed = start_time.elapsed();
+        self.write_to_log(&format!("Total runtime: {:?}", elapsed));
+        elapsed
+    }
+
+    pub fn write_to_log(&self, message: &str) {
+        let log_file = format!("{}/logs/performance.log", self.directory);
+        let mut file = fs::OpenOptions::new()
+            .write(true)
+            .append(true)
+            .create(true)
+            .open(&log_file)
+            .unwrap();
+        writeln!(file, "{}", message).expect("Couldn't write to log file");
     }
 
     pub fn get_files(&self) -> &Vec<String> {
@@ -107,9 +118,10 @@ impl RecFileSearch {
 }
 
 fn main() {
-    let search_path = String::from("/mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir");
+    let search_path = String::from("/mnt/General_Data/Dev/Rust/AntiVirus/Test_env");
     let db_path = String::from("/mnt/General_Data/Dev/Rust/AntiVirus/Test_env/signatures.db");
     let comparer = FileCompare::new(&db_path);
     let mut secure_dir = RecFileSearch::new(search_path, comparer);
-    secure_dir.start();
+    let total_runtime = secure_dir.start();
+    println!("Total runtime: {:?}", total_runtime);
 }
