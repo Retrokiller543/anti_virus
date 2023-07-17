@@ -1,142 +1,111 @@
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env - Time: 30ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs/dv1667.log - Time: 197.295µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs/performance.log - Time: 192.977µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/signatures.db - Time: 187.007µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/createdir.sh - Time: 194.441µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/dv1667.log - Time: 195.993µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/h4x0r.pdf - Time: 111.056µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1 - Time: 30ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11/fil1 - Time: 195.983µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11/fil2 - Time: 215.319µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12/fil1 - Time: 195.222µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12/fil2 - Time: 194.541µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13/fil1 - Time: 199.098µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13/fil2 - Time: 202.425µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14/fil1 - Time: 205.04µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14/fil2 - Time: 194.48µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15 - Time: 40ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15/fil1 - Time: 196.794µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15/fil2 - Time: 196.865µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2 - Time: 30ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21/fil1 - Time: 195.392µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21/fil2 - Time: 195.923µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22/fil1 - Time: 194.981µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22/fil2 - Time: 195.402µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23/fil1 - Time: 197.085µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23/fil2 - Time: 194.4µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24/fil1 - Time: 195.533µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24/fil2 - Time: 197.346µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25/fil1 - Time: 195.682µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25/fil2 - Time: 193.598µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3 - Time: 30ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31 - Time: 70ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31/fil1 - Time: 323.92µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31/fil2 - Time: 274.99µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32/fil1 - Time: 234.264µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32/fil2 - Time: 274.088µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33/fil1 - Time: 250.414µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33/fil2 - Time: 241.748µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34 - Time: 51ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34/fil1 - Time: 260.653µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34/fil2 - Time: 269.469µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35/fil1 - Time: 252.898µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35/fil2 - Time: 233.102µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4 - Time: 60ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41 - Time: 41ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41/fil1 - Time: 223.564µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41/fil2 - Time: 215.73µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42/fil1 - Time: 222.272µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42/fil2 - Time: 207.384µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43/fil1 - Time: 204.729µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43/fil2 - Time: 206.562µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44/fil1 - Time: 202.064µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44/fil2 - Time: 282.243µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45/fil1 - Time: 252.237µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45/fil2 - Time: 288.805µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5 - Time: 60ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51/fil1 - Time: 296.45µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51/fil2 - Time: 289.166µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52 - Time: 40ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/fil1 - Time: 248.13µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/fil2 - Time: 212.835µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/test.pdf - Time: 146.171µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53/fil1 - Time: 208.056µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53/fil2 - Time: 199.74µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54/fil1 - Time: 196.023µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54/fil2 - Time: 196.715µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55/fil1 - Time: 198.728µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55/fil2 - Time: 208.426µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6 - Time: 20ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61/fil1 - Time: 206.222µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61/fil2 - Time: 317.819µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62/fil1 - Time: 298.934µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62/fil2 - Time: 293.023µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63 - Time: 61ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63/fil1 - Time: 276.662µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63/fil2 - Time: 285.118µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir64 - Time: 40ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir64/fil1 - Time: 262.546µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir64/fil2 - Time: 240.315µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir65 - Time: 60ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir65/fil1 - Time: 213.836µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir65/fil2 - Time: 196.424µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7 - Time: 40ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir71 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir71/fil1 - Time: 198.498µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir71/fil2 - Time: 195.221µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir72 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir72/fil1 - Time: 197.496µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir72/fil2 - Time: 194.34µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73/fil1 - Time: 196.494µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73/fil2 - Time: 195.812µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73/passwd - Time: 103.382µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir74 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir74/fil1 - Time: 196.764µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir74/fil2 - Time: 195.202µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/fil1 - Time: 195.793µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/fil2 - Time: 195.963µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/fil3 - Time: 64.689µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/ypcat - Time: 80.889µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8 - Time: 30ns
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir81 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir81/fil1 - Time: 198.267µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir81/fil2 - Time: 194.47µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir82 - Time: 40ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir82/fil1 - Time: 196.224µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir82/fil2 - Time: 192.637µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir83 - Time: 30ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir83/fil1 - Time: 192.587µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir83/fil2 - Time: 192.396µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir84 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir84/fil1 - Time: 195.492µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir84/fil2 - Time: 248.3µs
-Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir85 - Time: 20ns
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir85/fil1 - Time: 198.197µs
-File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8/SubSubDir85/fil2 - Time: 191.946µs
-Total runtime: 44.00943ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env - Time: 70ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs - Time: 60ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir - Time: 70ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1 - Time: 70ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs/dv1667.log - Time: 224.276µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11 - Time: 90ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs/performance.log - Time: 463.058µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2 - Time: 20ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/logs/risk_files.log - Time: 666.896µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21 - Time: 31ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/signatures.db - Time: 857.78µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/createdir.sh - Time: 1.042522ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23 - Time: 61ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/h4x0r.pdf - Time: 1.183914ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11/fil1 - Time: 1.317311ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir11/fil2 - Time: 1.540635ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12/fil1 - Time: 1.774198ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir12/fil2 - Time: 1.992974ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13/fil1 - Time: 2.168679ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir13/fil2 - Time: 2.387284ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14/fil1 - Time: 2.554063ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32 - Time: 90ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir14/fil2 - Time: 2.847237ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15/fil1 - Time: 3.022722ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir1/SubSubDir15/fil2 - Time: 3.262357ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21/fil1 - Time: 3.385735ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir21/fil2 - Time: 3.623375ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22/fil1 - Time: 3.768384ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir22/fil2 - Time: 3.858891ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23/fil1 - Time: 3.732057ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41 - Time: 20ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir23/fil2 - Time: 3.879439ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24/fil1 - Time: 3.794623ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir24/fil2 - Time: 3.89023ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25/fil1 - Time: 3.753496ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir2/SubSubDir25/fil2 - Time: 3.839366ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31/fil1 - Time: 3.713973ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir31/fil2 - Time: 3.908403ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32/fil1 - Time: 3.865835ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir32/fil2 - Time: 3.936896ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45/fil2 - Time: 397.727µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51/fil1 - Time: 310.906µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir51/fil2 - Time: 282.534µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52 - Time: 31ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/fil1 - Time: 379.253µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/fil2 - Time: 234.885µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33/fil2 - Time: 5.663927ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34/fil1 - Time: 5.648908ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir34/fil2 - Time: 5.745799ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54 - Time: 50ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35/fil1 - Time: 5.797194ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54/fil2 - Time: 280.299µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41/fil1 - Time: 5.884446ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir41/fil2 - Time: 5.984902ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42/fil1 - Time: 5.954615ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6 - Time: 61ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61 - Time: 70ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir42/fil2 - Time: 6.050333ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62 - Time: 50ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43/fil1 - Time: 6.125081ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir43/fil2 - Time: 6.231178ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44/fil1 - Time: 6.169935ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir44/fil2 - Time: 6.18375ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir64 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir4/SubSubDir45/fil1 - Time: 6.052156ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir33/fil1 - Time: 9.858721ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir65 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/test.pdf - Time: 4.519957ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53/fil1 - Time: 4.3545ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir71 - Time: 20ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir53/fil2 - Time: 4.450428ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir54/fil1 - Time: 4.260456ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir72 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir3/SubSubDir35/fil2 - Time: 9.968083ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55/fil1 - Time: 4.213678ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir55/fil2 - Time: 4.357395ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61/fil1 - Time: 3.958005ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir61/fil2 - Time: 4.238875ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir74 - Time: 40ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62/fil1 - Time: 4.050827ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir62/fil2 - Time: 4.145002ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75 - Time: 30ns
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63/fil1 - Time: 4.138579ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir63/fil2 - Time: 4.377372ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir6/SubSubDir64/fil1 - Time: 4.746556ms
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: File: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/ypcat - Time: 125.522µs
+/mnt/General_Data/Dev/Rust/AntiVirus/Test_env: Directory: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir8 - Time: 70ns

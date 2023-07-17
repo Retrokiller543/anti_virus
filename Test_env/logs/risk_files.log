@@ -1,0 +1,5 @@
+Risky file: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir73/passwd - Signature: TestVirus.C
+Risky file: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/ypcat - Signature: TestTrojan.6
+Risky file: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/h4x0r.pdf - Signature: TestVirus.B
+Risky file: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir5/SubSubDir52/test.pdf - Signature: TestVirus.B
+Risky file: /mnt/General_Data/Dev/Rust/AntiVirus/Test_env/TestDir/SubDir7/SubSubDir75/fil3 - Signature: TestTrojan.6
