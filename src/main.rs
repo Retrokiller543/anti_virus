@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 use std::fs;
-use std::io::{Read, Write};
+use std::io::Write;
 use walkdir::WalkDir;
 
 pub struct FileCompare {
@@ -52,6 +52,7 @@ impl FileCompare {
         let mut file = fs::OpenOptions::new()
             .write(true)
             .append(true)
+            .create(true)  // This will create the file if it doesn't exist
             .open(path)
             .unwrap();
         for (file_path, virus_name) in &self.risk_files {
